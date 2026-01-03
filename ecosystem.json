@@ -1,18 +1,14 @@
 {
   "feed_version": "ecosystem_feed_v1",
-  "generated_at": "2026-01-03T00:00:00Z",
+  "generated_at": "2025-01-03T09:00:00Z",
   "expires_in": 86400,
   "cards": [
     {
-      "id": "addons",
+      "id": "remote_addons",
       "type": "addons",
       "enabled": true,
       "title": "Extend Tempmails",
-      "description": "This is test to see if its working or not.",
-      "meta": {
-        "status_text": "Free & premium addons available"
-      },
-      "items": [],
+      "description": "Unlock advanced features with official Tempmails addons.",
       "cta": {
         "label": "View Addons",
         "url": "https://tempmails.cv/addons",
@@ -20,17 +16,11 @@
       }
     },
     {
-      "id": "free_plugins",
+      "id": "remote_free",
       "type": "free_plugins",
       "enabled": true,
       "title": "More Free Tools",
       "description": "Explore other lightweight, privacy-friendly plugins from our team.",
-      "items": [
-        {
-          "label": "free Usefull Premium Plugins",
-          "url": "https://tempmails.cv"
-        }
-      ],
       "cta": {
         "label": "Explore Free Plugins",
         "url": "https://tempmails.cv/plugins",
@@ -38,21 +28,11 @@
       }
     },
     {
-      "id": "tutorials",
+      "id": "remote_docs",
       "type": "tutorials",
       "enabled": true,
       "title": "Learn & Get Help",
       "description": "Guides, tutorials, and documentation to help you get started.",
-      "items": [
-        {
-          "label": "Documentation",
-          "url": "https://tempmails.cv/docs"
-        },
-        {
-          "label": "Setup Guide",
-          "url": "https://tempmails.cv/docs/setup"
-        }
-      ],
       "cta": {
         "label": "Open Documentation",
         "url": "https://tempmails.cv/docs",
@@ -60,16 +40,11 @@
       }
     },
     {
-      "id": "newsletter",
+      "id": "remote_news",
       "type": "newsletter",
       "enabled": true,
       "title": "Stay Updated",
       "description": "Get updates on new addons, features, and tips. No spam.",
-      "meta": {
-        "placeholder": "Email address",
-        "consent_text": "You can unsubscribe at any time."
-      },
-      "items": [],
       "cta": {
         "label": "Subscribe",
         "url": "https://tempmails.cv/subscribe",
