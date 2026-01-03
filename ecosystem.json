@@ -7,7 +7,7 @@
       "id": "addons",
       "type": "addons",
       "enabled": true,
-      "title": "From Tempmails",
+      "title": "Tempmails Addons",
       "description": "Unlock advanced features with official Tempmails addons.",
       "meta": {
         "status_text": "Free & premium addons available"
@@ -27,13 +27,13 @@
       "description": "Explore other lightweight, privacy-friendly plugins from our team.",
       "items": [
         {
-          "label": "Tempmails",
-          "url": "https://tempmails.cv"
+          "label": "More Free Plugins",
+          "url": "https://tempmails.cv/more-plugins"
         }
       ],
       "cta": {
         "label": "Explore Free Plugins",
-        "url": "https://tempmails.cv/plugins",
+        "url": "https://tempmails.cv/more-plugins",
         "external": true
       }
     },
