@@ -1,7 +1,7 @@
 {
   "feed_version": "ecosystem_feed_v1",
   "generated_at": "2026-01-03T00:00:00Z",
-  "expires_in": 600,
+  "expires_in": 60,
   "cards": [
     {
       "id": "addons",
