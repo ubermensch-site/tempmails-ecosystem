@@ -1,4 +1,28 @@
-
+{
+  "feed_version": "ecosystem_feed_v1",
+  "generated_at": "2026-01-03T00:00:00Z",
+  "expires_in": 60,
+  "cards": [
+    {
+      "id": "addons",
+      "type": "addons",
+      "enabled": true,
+      "title": "Tempmails Addons",
+      "description": "Unlock advanced features with official Tempmails addons.",
+      "meta": {
+        "status_text": "Free & premium addons available"
+      },
+      "items": [],
+      "cta": {
+        "label": "View Addons",
+        "url": "https://tempmails.cv/addons",
+        "external": true
+      }
+    },
+    {
+      "id": "free_plugins",
+      "type": "free_plugins",
+      "enabled": true,
       "title": "More Free Tools",
       "description": "Explore other lightweight, privacy-friendly plugins from our team.",
       "items": [
