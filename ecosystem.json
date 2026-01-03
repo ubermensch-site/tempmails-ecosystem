@@ -7,7 +7,7 @@
       "id": "remote_addons",
       "type": "addons",
       "enabled": true,
-      "title": "Extend Tempmails",
+      "title": "From Tempmails",
       "description": "This is a test to see if its working or not.",
       "cta": {
         "label": "View Addons",
